@@ -9,6 +9,7 @@ function sortNumber(arr) {
     }
   }
   // console.log(arr);
+
   return arr;
 }
 
